@@ -25,8 +25,11 @@ ZEROCRAFT IS CURRENTLY NOT VERY OPTIMIZED AND REQUIRES A LOT OF MEMORY FOR LARGE
 - Support for most classic clients
 - CPE support (Upcoming)
 - Various optimizations (Upcoming as the server has been made only to work currently, the code is not very optimized)
-- Up to 128 players (Tested, needs atleast 1GB of ram on a 128x256x128 world, this will be updated when "Various optimizations" are implemented)
-- Message customization (Most important chat messages can be customized in "message.yml")
+- Up to 128 players (Needs improvements but tested, needs atleast 1GB of ram on a 128x256x128 world, this will be a better experience when "Various optimizations" are implemented)
+- Message customization (Most important chat messages can be customized in "messages.yml")
+- Important built in moderation commands
+<br>
+<b>More coming soon...</b>
 
 # 👨‍💻 Contributing
 You may proceed with the following steps if you wish to contribute to this project
