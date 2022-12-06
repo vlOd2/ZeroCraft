@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.11.0.jar" sourcepath="lib/commons-io-2.11.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ZeroCraft/lib/commons-io-2.11.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.12.0.jar" sourcepath="lib/commons-lang3-3.12.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ZeroCraft/lib/commons-lang3-3.12.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/java-discord-rpc-2.0.1-all.jar" sourcepath="lib/java-discord-rpc-2.0.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ZeroCraft/lib/java-discord-rpc-2.0.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/snakeyaml-1.32.jar" sourcepath="lib/snakeyaml-1.32-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ZeroCraft/lib/snakeyaml-1.32-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/json-20220320.jar" sourcepath="lib/json-20220320-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ZeroCraft/lib/json-20220320-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jna-5.12.1.jar"/>
+	<classpathentry kind="lib" path="lib/jna-jpms-5.12.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
